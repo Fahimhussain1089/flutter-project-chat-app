@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCDmYj-P6UY2swGm_UwqpzV_67p6nuAUvY',
+    apiKey: '',//add your api key
     appId: '1:346378265961:android:9bdfd80d2615f9a2df09f8',
     messagingSenderId: '346378265961',
     projectId: 'flutter-chat-app-a7db2',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA8EBVqorB4nankAvr_McnTRkqjWegAYs0',
+    apiKey: '',//add your api key
     appId: '1:346378265961:ios:09702ba0a7b41fc0df09f8',
     messagingSenderId: '346378265961',
     projectId: 'flutter-chat-app-a7db2',
